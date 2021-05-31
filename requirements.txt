@@ -1,7 +1,4 @@
-os
 winsound
-math
-random
 platform
 audiotsm==0.1.2
 cffi==1.14.0
