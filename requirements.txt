@@ -1,4 +1,3 @@
-﻿turtle
 os
 winsound
 math
