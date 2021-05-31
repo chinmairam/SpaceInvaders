@@ -1,0 +1,13 @@
+﻿turtle
+os
+winsound
+math
+random
+platform
+audiotsm==0.1.2
+cffi==1.14.0
+numpy==1.18.2
+pycparser==2.20
+pygame==1.9.6
+PySoundFile==0.9.0.post1
+Wave==0.0.2
