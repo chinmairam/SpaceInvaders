@@ -9,5 +9,5 @@ pygame==2.0.1
 python-http-client==3.3.2
 sendgrid==6.6.0
 stanfordkarel==0.2.5
-starkbank-ecdsa==1.1.0
+starkbank-ecdsa==2.0.1
 Werkzeug==1.0.1
